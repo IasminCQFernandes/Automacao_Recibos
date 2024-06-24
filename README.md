@@ -27,9 +27,9 @@ Lembre-se: o máximo de itens em cada recibo é igual a 5, respeitando a quantid
 
 2. Baixar Python
 Baixe Python [aqui](https://www.python.org/downloads/)
-.
 
-2.1. Instalar Python
+
+ 2.1. Instalar Python
 Durante a instalação, lembre-se de marcar as caixinhas de seleção necessárias. Caso seu computador não permita a instalação, entre em contato com o setor de TI ou abra um chamado para baixar o programa.
 
 3. Atualizando Bibliotecas
